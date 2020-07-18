@@ -1,5 +1,5 @@
 # StopWatchExercise
-This is an exercise from the 'C# Intermediate: Classes, Interfaces and OOP' course on Udemy. The exercise asks to design a stopwatch console application. Below is how the exercise is proposed in the course.
+This is an exercise from the 'C# Intermediate: Classes, Interfaces and OOP' course by Mosh Hamedani on Udemy. The exercise asks to design a stopwatch console application. Below is how the exercise is proposed in the course.
 
 Exercise 1: Design a Stopwatch
 
